@@ -15,12 +15,17 @@ we are trying to use independent variables to predict the saleprice
 * Test.csv is the test set, which won't be released until the last week of the competition. It contains data from May 1, 2012 - November 2012. Your score on the test set determines your final rank for the competition.
 
 https://www.kaggle.com/c/bluebook-for-bulldozers/data
+
 3. evaluation
 
 * The evaluation metric for this competition is the RMSLE (root mean squared log error) between the actual and predicted auction prices.
 
 www.kaggle.com/competitions/bluebook-for-bulldozers/overview/evaluation
+
 4. features
+   
 5. modeling
-6. experiments¶
+  
+6. experiments
+   
 
