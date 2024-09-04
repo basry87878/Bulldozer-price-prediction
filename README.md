@@ -27,5 +27,7 @@ www.kaggle.com/competitions/bluebook-for-bulldozers/overview/evaluation
 5. modeling
   
 6. experiments
+
+7. Results: validation-RMSLE-0.2459
    
 
